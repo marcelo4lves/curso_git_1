@@ -8,3 +8,7 @@ eu fiz uma alteração e comiteie
 
 Adicionei um comentário, que darei stash
 O git stash, só irá funcionar se ainda não tiver dado o commit
+
+===================================================
+função 1
+===================================================
