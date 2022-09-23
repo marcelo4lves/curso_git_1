@@ -14,5 +14,3 @@ função 1
 ===================================================
 função 2
 ===================================================
-enviando a funcionalidade X
-evinando a funcionalidade B
