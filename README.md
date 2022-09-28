@@ -27,4 +27,9 @@ Para listas ordenadas coloca-se o número seguido de um ponto
 ![computador](img/computer.jpg)
 
 
+### Links no markdown
+
+Conheça o meu blog pessoal [Insensurado](http://www.blogincensurado.blogspot.com)
+Links do github podem ser acessados de forma direta
+
 
