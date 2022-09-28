@@ -18,5 +18,13 @@ Se usar apenas um asterisco com texto, faz uma ul não ordenada
 
 Para listas ordenadas coloca-se o número seguido de um ponto
 1. Exemplo 1
+    1. Da para fazer listas aninhadas
+    2. aninhada
 1. Exemplo 2
 1. Exemplo 3
+
+### inserindo imagem
+![computador](img/computer.jpg)
+
+
+
