@@ -1,2 +1,5 @@
-# curso_git_1
-Seguindo o curso do Hora de Codar
+# Titulo do texto
+uma hastag é interpretado como h1
+
+## funcionalidades 
+duas hastag é como se fosse o h2
