@@ -32,4 +32,18 @@ Para listas ordenadas coloca-se o número seguido de um ponto
 Conheça o meu blog pessoal [Insensurado](http://www.blogincensurado.blogspot.com)
 Links do github podem ser acessados de forma direta
 
+### codigos em markdown (exclusivo para github)
+
+```javascript
+function somar(a+b){
+    retunr a+b;
+}
+ ```
+
+ ```css
+    body{
+        background-color:#fff;
+        
+    }
+ ```
 
