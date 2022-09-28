@@ -49,4 +49,4 @@ function somar(a+b){
 
 ### lista de tarefas
 - [x] criar o site
-- [] realizar conexão como BD
+- [ ] realizar conexão como BD
