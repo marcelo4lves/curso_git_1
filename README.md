@@ -43,7 +43,10 @@ function somar(a+b){
  ```css
     body{
         background-color:#fff;
-        
+
     }
  ```
 
+### lista de tarefas
+- [x] criar o site
+- [] realizar conexão como BD
